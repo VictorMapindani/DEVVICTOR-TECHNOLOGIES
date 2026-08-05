@@ -458,3 +458,75 @@ Specific numerical targets should be established after baseline data is availabl
 | Version | Date | Description | Author |
 |---|---|---|---|
 | 0.1 | August 2026 | Initial Business Plan draft | Victor |
+
+---
+
+## 16. Initial Strategic Decisions
+
+The following decisions guide the initial development and operation of DevVictor Technologies.
+
+### 16.1 Initial Business Focus
+
+DevVictor Technologies will initially focus on delivering:
+
+- Professional websites.
+- Web applications.
+- Custom business systems.
+- Business process automation.
+- Software maintenance and support.
+
+Additional services may be introduced after sufficient technical experience, client demand, and operational capacity have been established.
+
+### 16.2 Initial Client Focus
+
+The initial client focus will be:
+
+- Small and medium-sized businesses.
+- Startups.
+- Entrepreneurs.
+- Organizations that require practical digital systems or process improvements.
+
+The target market may be refined using evidence collected from client inquiries, completed projects, and market research.
+
+### 16.3 Initial Platform Priorities
+
+The first public release of the DevVictor Technologies Platform will prioritize:
+
+1. Professional company presentation.
+2. Service information.
+3. Portfolio and project case studies.
+4. Client inquiry and lead capture.
+5. Preliminary project estimation.
+6. Administrative lead management.
+
+The client portal, advanced project management, analytics, and other expanded capabilities will be developed in later phases.
+
+### 16.4 Project Estimation Policy
+
+The platform's project estimator will provide an indicative estimate only.
+
+The estimate will not constitute a binding quotation or contract. Final project pricing and delivery timelines will be determined after requirements are reviewed and the project scope is agreed upon.
+
+### 16.5 Development Strategy
+
+The platform will be developed incrementally.
+
+Each major capability will be:
+
+1. Documented.
+2. Designed.
+3. Implemented.
+4. Tested.
+5. Reviewed.
+6. Added to the stable `main` branch.
+
+This approach reduces technical risk and allows the platform to evolve based on practical learning and business needs.
+
+---
+
+## 17. Revision History
+
+| Version | Date | Description | Author |
+|---|---|---|---|
+| 0.1 | August 2026 | Initial Business Plan draft | Victor |
+| 0.2 | August 2026 | Added initial strategic decisions and platform priorities | Victor |
